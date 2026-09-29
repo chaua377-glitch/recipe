@@ -1,0 +1,29 @@
+body{
+    margin: 60px 60px 60px 60px;
+    background-color: rgb(245, 215, 106);
+}
+h1{ 
+   font-family: "pentz-classic", serif;
+font-weight: 500;
+font-style: normal;
+text-align: center;
+font-size: 128px;
+ filter: drop-shadow(4px 6px 8px rgba(0, 0, 0, 0.4));
+  
+  
+}
+
+p{
+   font-family: "config-mono-vf", sans-serif;
+font-variation-settings: "wght" 200;
+font-size: 20px;
+}
+li{
+    font-family: "config-mono-vf", sans-serif;
+font-variation-settings: "wght" 200;
+}
+img{
+    width: 350px;
+    height: 280px;
+    border: 10px solid #f4efc3;
+}
